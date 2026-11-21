@@ -1,0 +1,3 @@
+# Core animation engine (Manim Community Edition)
+
+manim>=0.22.1

@@ -42,6 +42,14 @@ A collection of mathematical animations and visual experiments built with [Manim
 
 ---
 
+4. **Install Dependencies**
+   ```bash
+   pip install --upgrade pip
+   pip install -r requirements.txt
+   ```
+
+---
+
 ## Rendering Animations
 
 Run any scene using the `manim` CLI:
