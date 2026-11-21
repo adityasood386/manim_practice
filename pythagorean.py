@@ -13,7 +13,7 @@ class PythagoreanProof(Scene):
         offset = LEFT * 2.0  # Shift diagram left to leave room for equations on the right
 
         # 1. Title
-        title = Text("Aditya Sood", font_size=40, color=WHITE).to_edge(UP, buff=0.4)
+        title = Text("Pythagorean Theorem", font_size=40, color=WHITE).to_edge(UP, buff=0.4)
         self.play(Write(title))
 
         # 2. Outer framing square of side (a + b)
