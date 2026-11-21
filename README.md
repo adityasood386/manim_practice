@@ -75,9 +75,8 @@ manim -pqh scene.py DrawCircle
 .
 ├── .gitignore
 ├── README.md
-├── scene.py
 ├── transform.py
-└── demo.py
+└── more files to come.....
 ```
 
 *Note: The `media/` and `.venv/` folders are excluded from Git via `.gitignore`.*
