@@ -1,0 +1,16 @@
+manim -pqh scene.py DrawCircle
+
+
+Flag,Resolution,Frame Rate,Best For
+-ql,480p,15 fps,Fast drafts while coding
+-qm,720p,30 fps,Medium previews
+-qh,1080p,60 fps,Smooth standard videos
+-qp,1440p,60 fps,High-res displays
+-qk,4K (2160p),60 fps,Final ultra-HD exports
+
+create manim.cfg to avoid writing flags everytime
+inside file :
+ [CLI]
+frame_rate = 60
+pixel_height = 1080
+pixel_width = 1920

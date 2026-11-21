@@ -1,0 +1,11 @@
+# Virtual environments
+.venv/
+venv/
+manim_env/
+
+# Manim rendered videos, images, and cache
+media/
+
+# Python cache files
+__pycache__/
+*.pyc
